@@ -1,16 +1,16 @@
 # Random Password Generator JS
 
-## Description
-This project uses JavaScript to generate a randomized password for a user based on their selected preferences; capital and lower cased lettering, numbers, special characters, and password length. Each time the "Generate Password" is clicked, a new randomized password is displayed. 
+## **Description**
+- This project uses JavaScript to generate a randomized password for a user based on their selected preferences; capital and lower cased lettering, numbers, special characters, and password length. Each time the "Generate Password" is clicked, a new randomized password is displayed. 
 <br/><br/><br/>
 
-## User Story
-AS AN employee with access to sensitive data,  
+## **User Story**
+- AS AN employee with access to sensitive data,  
 I WANT to randomly generate a password that meets certain criteria  
 SO THAT I can create a strong password that provides greater security.
 <br/><br/><br/>
 
-## Acceptance Criteria
+## **Acceptance Criteria**
 -  GIVEN I need a new, secure password:  
 1. WHEN I click the button to generate a password  
    THEN I am presented with a series of prompts for password criteria.
@@ -35,17 +35,17 @@ SO THAT I can create a strong password that provides greater security.
 <br/><br/><br/>
 
 
-## Mock-Up
+## **Mock-Up**
 ```bash
 (mock-up img coming soon ![]())
 ```
 
 
-## Live URL
+## **Live URL**
 ```bash
 (input Live URL)
 ```
 
 
-## License 
+## **License** 
 [MIT](https://choosealicense.com/licenses/mit/)
